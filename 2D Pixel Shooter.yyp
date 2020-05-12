@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "082ddf34-db2b-4ef0-a189-46ec4bdd49e9",
+            "Value": {
+                "id": "11bd71a2-73f1-4495-b769-13c7668e6386",
+                "resourcePath": "sprites\/sPenguinDead\/sPenguinDead.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "11daabcc-8d33-4718-a466-8e760b730b54",
             "Value": {
                 "id": "09608f0e-b239-4ef6-bb23-8d54c070efc8",
@@ -47,6 +55,14 @@
             }
         },
         {
+            "Key": "2c4b000d-bc8b-4790-b9b6-48df9d5e865a",
+            "Value": {
+                "id": "e15b061d-62f2-4d13-b88b-3d15d828296c",
+                "resourcePath": "sprites\/sPenguinStanding\/sPenguinStanding.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "347cae56-e1c2-4d6d-92e6-790269894f6c",
             "Value": {
                 "id": "4f268c27-ecad-4ef3-abfb-d6f5bdb86007",
@@ -60,6 +76,30 @@
                 "id": "b1de5fdc-2187-47ae-9357-2960e4e5618e",
                 "resourcePath": "views\/3851af64-c743-481d-bf84-af7184ceaca6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "39070183-5ec6-42e0-afbc-85c4fcabcd04",
+            "Value": {
+                "id": "97e84772-422c-4910-b5d3-fa7f4375fb9a",
+                "resourcePath": "objects\/objAk47\/objAk47.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4a060172-469a-41c6-94db-71b26bbe7c01",
+            "Value": {
+                "id": "3bdec0bc-5ada-4146-a1d7-d34096f47bb3",
+                "resourcePath": "sprites\/sPenguingHit\/sPenguingHit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4c226095-e238-4399-a753-cf9d5f427cc0",
+            "Value": {
+                "id": "f1215bf7-a8bc-4e67-9e35-a2b2a28b7aeb",
+                "resourcePath": "sprites\/sPenguinAK74\/sPenguinAK74.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -83,6 +123,14 @@
             "Value": {
                 "id": "13a46e13-7d19-4d74-ab5e-6a000623b9c8",
                 "resourcePath": "views\/7e9746a5-63b9-4ed3-b6c4-230fbc7cb6d5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7f43f0ea-718a-4b00-9085-7cff2fda77f3",
+            "Value": {
+                "id": "78e2dd98-9756-4792-a385-1ae81126c47b",
+                "resourcePath": "views\/7f43f0ea-718a-4b00-9085-7cff2fda77f3.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -124,6 +172,14 @@
                 "id": "80c30dab-f883-459c-bf25-aaa330c73746",
                 "resourcePath": "views\/b50e0725-7a09-4fbb-bd35-0126bccaff93.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b6130b11-09a1-4cd9-8abe-acf38ecb16be",
+            "Value": {
+                "id": "ceb02b5b-1293-48a1-a6e3-261f069d3455",
+                "resourcePath": "sprites\/sPenguinJumping\/sPenguinJumping.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -194,7 +250,7 @@
             "Key": "ea642d92-bece-41e9-84f2-115093b45bd3",
             "Value": {
                 "id": "b5e00bd6-e45b-4023-9a9e-27d286177abd",
-                "resourcePath": "sprites\/sPenguin\/sPenguin.yy",
+                "resourcePath": "sprites\/sPenguinWalking\/sPenguinWalking.yy",
                 "resourceType": "GMSprite"
             }
         },

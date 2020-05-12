@@ -100,15 +100,42 @@
         "dd2ba969-351f-49d5-96e5-99b039cf69d0",
         "d34e614d-14f9-4190-a9de-ee85d0a45206",
         "c42fe5a3-1136-4aed-be66-4f2dd1cbb163",
-        "4ec469b9-bea4-42c8-9996-8a6477f0b8d7"
+        "4ec469b9-bea4-42c8-9996-8a6477f0b8d7",
+        "0ae1d898-1dc0-445e-b205-995afc0d8145"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Weapons",
+            "id": "ef5ef015-addd-4edb-b7bb-a38bafb9c170",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_156C940C","id": "0ae1d898-1dc0-445e-b205-995afc0d8145","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_156C940C","objId": "39070183-5ec6-42e0-afbc-85c4fcabcd04","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 259,"y": 101}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Instances",
             "id": "195a6622-81d6-45dd-8685-8a1f06263dad",
-            "depth": 0,
+            "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -230,7 +257,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4278190080 },
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

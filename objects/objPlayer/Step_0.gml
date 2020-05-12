@@ -33,3 +33,26 @@ if (place_meeting(x, y + verticalSpeed, objWall)) {
 }
 
 y = y + verticalSpeed;
+
+
+
+// Animation
+if (!place_meeting(x, y + 1, objWall)) {
+	// In air
+	sprite_index = sPenguinJumping
+	image_speed = 1
+	if (image_index == 2) {
+		image_speed = 0
+	}
+} else {
+	// On ground
+	if (horizontalSpeed == 0) {
+		sprite_index = sPenguinStanding
+		image_speed = 1
+	} else  {
+		sprite_index = sPenguinWalking
+		image_speed = 1
+	}
+}
+
+if (horizontalSpeed != 0) image_xscale = sign(horizontalSpeed)
